@@ -246,13 +246,15 @@ Route efficiency     : 100.0 / 100
 
 ### Screenshot 1 — Order Management & Traffic Monitoring
 
-![Order Management](./screenshots/screenshot1.png)
+<img width="1372" height="892" alt="image" src="https://github.com/user-attachments/assets/e73d142e-1c5a-4d94-b689-4eb3f98f0937" />
+
 
 *Shows Order Management menu, adding Order #34 for customer "anant", and Traffic Scan returning no changes.*
 
 ### Screenshot 2 — Main Menu & Performance Summary
 
-![Main Menu & Performance](./screenshots/screenshot2.png)
+<img width="1372" height="892" alt="image" src="https://github.com/user-attachments/assets/8883a287-2ed6-4279-8277-c008a1163f29" />
+
 
 *Shows the main FOOD DELIVERY ROUTE SYSTEM menu, initial route loaded with 3 stops, 12.7 km total, 100% efficiency.*
 
